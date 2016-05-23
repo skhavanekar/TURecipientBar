@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "110611C41742E2D400730F01"
-               BuildableName = "TURecipientBar.app"
-               BlueprintName = "TURecipientBar"
+               BlueprintIdentifier = "4251FD451CF3841C00501E65"
+               BuildableName = "TURecipientBar.framework"
+               BlueprintName = "TURecipientBar iOS"
                ReferencedContainer = "container:TURecipientBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "110611C41742E2D400730F01"
-            BuildableName = "TURecipientBar.app"
-            BlueprintName = "TURecipientBar"
-            ReferencedContainer = "container:TURecipientBar.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "110611C41742E2D400730F01"
-            BuildableName = "TURecipientBar.app"
-            BlueprintName = "TURecipientBar"
+            BlueprintIdentifier = "4251FD451CF3841C00501E65"
+            BuildableName = "TURecipientBar.framework"
+            BlueprintName = "TURecipientBar iOS"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "110611C41742E2D400730F01"
-            BuildableName = "TURecipientBar.app"
-            BlueprintName = "TURecipientBar"
+            BlueprintIdentifier = "4251FD451CF3841C00501E65"
+            BuildableName = "TURecipientBar.framework"
+            BlueprintName = "TURecipientBar iOS"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
