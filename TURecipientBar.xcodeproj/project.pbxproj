@@ -15,11 +15,11 @@
 		4251FD7C1CF38CE700501E65 /* recipient.sketch in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6F1CF38CE700501E65 /* recipient.sketch */; };
 		4251FD7D1CF38CE700501E65 /* recipient@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD701CF38CE700501E65 /* recipient@2x.png */; };
 		4251FD7E1CF38CE700501E65 /* recipient@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD711CF38CE700501E65 /* recipient@3x.png */; };
-		4251FD7F1CF38CE700501E65 /* TURecipient.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD721CF38CE700501E65 /* TURecipient.h */; };
+		4251FD7F1CF38CE700501E65 /* TURecipient.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD721CF38CE700501E65 /* TURecipient.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4251FD801CF38CE700501E65 /* TURecipient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD731CF38CE700501E65 /* TURecipient.m */; };
-		4251FD811CF38CE700501E65 /* TURecipientsBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD741CF38CE700501E65 /* TURecipientsBar.h */; };
+		4251FD811CF38CE700501E65 /* TURecipientsBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD741CF38CE700501E65 /* TURecipientsBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4251FD821CF38CE700501E65 /* TURecipientsBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD751CF38CE700501E65 /* TURecipientsBar.m */; };
-		4251FD831CF38CE700501E65 /* TURecipientsDisplayController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD761CF38CE700501E65 /* TURecipientsDisplayController.h */; };
+		4251FD831CF38CE700501E65 /* TURecipientsDisplayController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD761CF38CE700501E65 /* TURecipientsDisplayController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4251FD841CF38CE700501E65 /* TURecipientsDisplayController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD771CF38CE700501E65 /* TURecipientsDisplayController.m */; };
 /* End PBXBuildFile section */
 
@@ -205,6 +205,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -263,6 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				APPLICATION_EXTENSION_API_ONLY = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
