@@ -1,6 +1,6 @@
 //
-//  TURecipientBar iOS.h
-//  TURecipientBar iOS
+//  TURecipientBar.h
+//  TURecipientBar
 //
 //  Created by Sameer Khavanekar on 5/23/16.
 //

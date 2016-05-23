@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4251FD4A1CF3841D00501E65 /* TURecipientBar iOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD491CF3841D00501E65 /* TURecipientBar iOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4251FD5D1CF3851E00501E65 /* recipient-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD501CF3851E00501E65 /* recipient-selected.png */; };
-		4251FD5E1CF3851E00501E65 /* recipient-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD511CF3851E00501E65 /* recipient-selected@2x.png */; };
-		4251FD5F1CF3851E00501E65 /* recipient-selected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD521CF3851E00501E65 /* recipient-selected@3x.png */; };
-		4251FD601CF3851E00501E65 /* recipient.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD531CF3851E00501E65 /* recipient.png */; };
-		4251FD611CF3851E00501E65 /* recipient.sketch in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD541CF3851E00501E65 /* recipient.sketch */; };
-		4251FD621CF3851E00501E65 /* recipient@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD551CF3851E00501E65 /* recipient@2x.png */; };
-		4251FD631CF3851E00501E65 /* recipient@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD561CF3851E00501E65 /* recipient@3x.png */; };
-		4251FD641CF3851E00501E65 /* TURecipient.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD571CF3851E00501E65 /* TURecipient.h */; };
-		4251FD651CF3851E00501E65 /* TURecipient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD581CF3851E00501E65 /* TURecipient.m */; };
-		4251FD661CF3851E00501E65 /* TURecipientsBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD591CF3851E00501E65 /* TURecipientsBar.h */; };
-		4251FD671CF3851E00501E65 /* TURecipientsBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD5A1CF3851E00501E65 /* TURecipientsBar.m */; };
-		4251FD681CF3851E00501E65 /* TURecipientsDisplayController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD5B1CF3851E00501E65 /* TURecipientsDisplayController.h */; };
-		4251FD691CF3851E00501E65 /* TURecipientsDisplayController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD5C1CF3851E00501E65 /* TURecipientsDisplayController.m */; };
+		4251FD4A1CF3841D00501E65 /* TURecipientBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD491CF3841D00501E65 /* TURecipientBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4251FD781CF38CE700501E65 /* recipient-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6B1CF38CE700501E65 /* recipient-selected.png */; };
+		4251FD791CF38CE700501E65 /* recipient-selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6C1CF38CE700501E65 /* recipient-selected@2x.png */; };
+		4251FD7A1CF38CE700501E65 /* recipient-selected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6D1CF38CE700501E65 /* recipient-selected@3x.png */; };
+		4251FD7B1CF38CE700501E65 /* recipient.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6E1CF38CE700501E65 /* recipient.png */; };
+		4251FD7C1CF38CE700501E65 /* recipient.sketch in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD6F1CF38CE700501E65 /* recipient.sketch */; };
+		4251FD7D1CF38CE700501E65 /* recipient@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD701CF38CE700501E65 /* recipient@2x.png */; };
+		4251FD7E1CF38CE700501E65 /* recipient@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4251FD711CF38CE700501E65 /* recipient@3x.png */; };
+		4251FD7F1CF38CE700501E65 /* TURecipient.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD721CF38CE700501E65 /* TURecipient.h */; };
+		4251FD801CF38CE700501E65 /* TURecipient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD731CF38CE700501E65 /* TURecipient.m */; };
+		4251FD811CF38CE700501E65 /* TURecipientsBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD741CF38CE700501E65 /* TURecipientsBar.h */; };
+		4251FD821CF38CE700501E65 /* TURecipientsBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD751CF38CE700501E65 /* TURecipientsBar.m */; };
+		4251FD831CF38CE700501E65 /* TURecipientsDisplayController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4251FD761CF38CE700501E65 /* TURecipientsDisplayController.h */; };
+		4251FD841CF38CE700501E65 /* TURecipientsDisplayController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4251FD771CF38CE700501E65 /* TURecipientsDisplayController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4251FD461CF3841D00501E65 /* TURecipientBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TURecipientBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4251FD491CF3841D00501E65 /* TURecipientBar iOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TURecipientBar iOS.h"; sourceTree = "<group>"; };
+		4251FD491CF3841D00501E65 /* TURecipientBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TURecipientBar.h; sourceTree = "<group>"; };
 		4251FD4B1CF3841D00501E65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4251FD501CF3851E00501E65 /* recipient-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected.png"; sourceTree = "<group>"; };
-		4251FD511CF3851E00501E65 /* recipient-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected@2x.png"; sourceTree = "<group>"; };
-		4251FD521CF3851E00501E65 /* recipient-selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected@3x.png"; sourceTree = "<group>"; };
-		4251FD531CF3851E00501E65 /* recipient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = recipient.png; sourceTree = "<group>"; };
-		4251FD541CF3851E00501E65 /* recipient.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = recipient.sketch; sourceTree = "<group>"; };
-		4251FD551CF3851E00501E65 /* recipient@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient@2x.png"; sourceTree = "<group>"; };
-		4251FD561CF3851E00501E65 /* recipient@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient@3x.png"; sourceTree = "<group>"; };
-		4251FD571CF3851E00501E65 /* TURecipient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipient.h; sourceTree = "<group>"; };
-		4251FD581CF3851E00501E65 /* TURecipient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipient.m; sourceTree = "<group>"; };
-		4251FD591CF3851E00501E65 /* TURecipientsBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipientsBar.h; sourceTree = "<group>"; };
-		4251FD5A1CF3851E00501E65 /* TURecipientsBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipientsBar.m; sourceTree = "<group>"; };
-		4251FD5B1CF3851E00501E65 /* TURecipientsDisplayController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipientsDisplayController.h; sourceTree = "<group>"; };
-		4251FD5C1CF3851E00501E65 /* TURecipientsDisplayController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipientsDisplayController.m; sourceTree = "<group>"; };
+		4251FD6B1CF38CE700501E65 /* recipient-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected.png"; sourceTree = "<group>"; };
+		4251FD6C1CF38CE700501E65 /* recipient-selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected@2x.png"; sourceTree = "<group>"; };
+		4251FD6D1CF38CE700501E65 /* recipient-selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient-selected@3x.png"; sourceTree = "<group>"; };
+		4251FD6E1CF38CE700501E65 /* recipient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = recipient.png; sourceTree = "<group>"; };
+		4251FD6F1CF38CE700501E65 /* recipient.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = recipient.sketch; sourceTree = "<group>"; };
+		4251FD701CF38CE700501E65 /* recipient@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient@2x.png"; sourceTree = "<group>"; };
+		4251FD711CF38CE700501E65 /* recipient@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "recipient@3x.png"; sourceTree = "<group>"; };
+		4251FD721CF38CE700501E65 /* TURecipient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipient.h; sourceTree = "<group>"; };
+		4251FD731CF38CE700501E65 /* TURecipient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipient.m; sourceTree = "<group>"; };
+		4251FD741CF38CE700501E65 /* TURecipientsBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipientsBar.h; sourceTree = "<group>"; };
+		4251FD751CF38CE700501E65 /* TURecipientsBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipientsBar.m; sourceTree = "<group>"; };
+		4251FD761CF38CE700501E65 /* TURecipientsDisplayController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TURecipientsDisplayController.h; sourceTree = "<group>"; };
+		4251FD771CF38CE700501E65 /* TURecipientsDisplayController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TURecipientsDisplayController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		4251FD3A1CF383EC00501E65 = {
 			isa = PBXGroup;
 			children = (
-				4251FD481CF3841D00501E65 /* TURecipientBar iOS */,
+				4251FD6A1CF38B5300501E65 /* Sources */,
 				4251FD471CF3841D00501E65 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,32 +69,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4251FD481CF3841D00501E65 /* TURecipientBar iOS */ = {
+		4251FD6A1CF38B5300501E65 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				4251FD491CF3841D00501E65 /* TURecipientBar iOS.h */,
-				4251FD4F1CF3850E00501E65 /* Sources */,
+				4251FD6B1CF38CE700501E65 /* recipient-selected.png */,
+				4251FD6C1CF38CE700501E65 /* recipient-selected@2x.png */,
+				4251FD6D1CF38CE700501E65 /* recipient-selected@3x.png */,
+				4251FD6E1CF38CE700501E65 /* recipient.png */,
+				4251FD6F1CF38CE700501E65 /* recipient.sketch */,
+				4251FD701CF38CE700501E65 /* recipient@2x.png */,
+				4251FD711CF38CE700501E65 /* recipient@3x.png */,
+				4251FD721CF38CE700501E65 /* TURecipient.h */,
+				4251FD731CF38CE700501E65 /* TURecipient.m */,
+				4251FD741CF38CE700501E65 /* TURecipientsBar.h */,
+				4251FD751CF38CE700501E65 /* TURecipientsBar.m */,
+				4251FD761CF38CE700501E65 /* TURecipientsDisplayController.h */,
+				4251FD771CF38CE700501E65 /* TURecipientsDisplayController.m */,
+				4251FD491CF3841D00501E65 /* TURecipientBar.h */,
 				4251FD4B1CF3841D00501E65 /* Info.plist */,
-			);
-			path = "TURecipientBar iOS";
-			sourceTree = "<group>";
-		};
-		4251FD4F1CF3850E00501E65 /* Sources */ = {
-			isa = PBXGroup;
-			children = (
-				4251FD501CF3851E00501E65 /* recipient-selected.png */,
-				4251FD511CF3851E00501E65 /* recipient-selected@2x.png */,
-				4251FD521CF3851E00501E65 /* recipient-selected@3x.png */,
-				4251FD531CF3851E00501E65 /* recipient.png */,
-				4251FD541CF3851E00501E65 /* recipient.sketch */,
-				4251FD551CF3851E00501E65 /* recipient@2x.png */,
-				4251FD561CF3851E00501E65 /* recipient@3x.png */,
-				4251FD571CF3851E00501E65 /* TURecipient.h */,
-				4251FD581CF3851E00501E65 /* TURecipient.m */,
-				4251FD591CF3851E00501E65 /* TURecipientsBar.h */,
-				4251FD5A1CF3851E00501E65 /* TURecipientsBar.m */,
-				4251FD5B1CF3851E00501E65 /* TURecipientsDisplayController.h */,
-				4251FD5C1CF3851E00501E65 /* TURecipientsDisplayController.m */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -106,10 +98,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4251FD4A1CF3841D00501E65 /* TURecipientBar iOS.h in Headers */,
-				4251FD641CF3851E00501E65 /* TURecipient.h in Headers */,
-				4251FD681CF3851E00501E65 /* TURecipientsDisplayController.h in Headers */,
-				4251FD661CF3851E00501E65 /* TURecipientsBar.h in Headers */,
+				4251FD4A1CF3841D00501E65 /* TURecipientBar.h in Headers */,
+				4251FD7F1CF38CE700501E65 /* TURecipient.h in Headers */,
+				4251FD831CF38CE700501E65 /* TURecipientsDisplayController.h in Headers */,
+				4251FD811CF38CE700501E65 /* TURecipientsBar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,13 +161,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4251FD621CF3851E00501E65 /* recipient@2x.png in Resources */,
-				4251FD5F1CF3851E00501E65 /* recipient-selected@3x.png in Resources */,
-				4251FD631CF3851E00501E65 /* recipient@3x.png in Resources */,
-				4251FD5D1CF3851E00501E65 /* recipient-selected.png in Resources */,
-				4251FD611CF3851E00501E65 /* recipient.sketch in Resources */,
-				4251FD5E1CF3851E00501E65 /* recipient-selected@2x.png in Resources */,
-				4251FD601CF3851E00501E65 /* recipient.png in Resources */,
+				4251FD7D1CF38CE700501E65 /* recipient@2x.png in Resources */,
+				4251FD7A1CF38CE700501E65 /* recipient-selected@3x.png in Resources */,
+				4251FD7E1CF38CE700501E65 /* recipient@3x.png in Resources */,
+				4251FD781CF38CE700501E65 /* recipient-selected.png in Resources */,
+				4251FD7C1CF38CE700501E65 /* recipient.sketch in Resources */,
+				4251FD791CF38CE700501E65 /* recipient-selected@2x.png in Resources */,
+				4251FD7B1CF38CE700501E65 /* recipient.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,9 +178,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4251FD671CF3851E00501E65 /* TURecipientsBar.m in Sources */,
-				4251FD651CF3851E00501E65 /* TURecipient.m in Sources */,
-				4251FD691CF3851E00501E65 /* TURecipientsDisplayController.m in Sources */,
+				4251FD821CF38CE700501E65 /* TURecipientsBar.m in Sources */,
+				4251FD801CF38CE700501E65 /* TURecipient.m in Sources */,
+				4251FD841CF38CE700501E65 /* TURecipientsDisplayController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,7 +243,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "TURecipientBar iOS/Info.plist";
+				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -303,7 +295,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "TURecipientBar iOS/Info.plist";
+				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -338,6 +330,7 @@
 				4251FD4E1CF3841D00501E65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
