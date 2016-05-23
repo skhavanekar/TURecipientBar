@@ -158,7 +158,7 @@
  
  This will both add the recipient to the array of recipients and will also update the view, whether it is in searching mode or not.
  
- @param recipient A recipient to add.
+@param recipient A recipient to add.
  */
 - (void)addRecipient:(id<TURecipient>)recipient;
 

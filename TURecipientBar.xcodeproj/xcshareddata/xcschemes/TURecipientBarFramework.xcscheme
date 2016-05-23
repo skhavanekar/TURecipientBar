@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4251FD451CF3841C00501E65"
-               BuildableName = "TURecipientBar.framework"
-               BlueprintName = "TURecipientBar"
+               BlueprintIdentifier = "631EA5141C4BFDED006F0E11"
+               BuildableName = "TURecipientBarFramework.framework"
+               BlueprintName = "TURecipientBarFramework"
                ReferencedContainer = "container:TURecipientBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4251FD451CF3841C00501E65"
-            BuildableName = "TURecipientBar.framework"
-            BlueprintName = "TURecipientBar"
+            BlueprintIdentifier = "631EA5141C4BFDED006F0E11"
+            BuildableName = "TURecipientBarFramework.framework"
+            BlueprintName = "TURecipientBarFramework"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4251FD451CF3841C00501E65"
-            BuildableName = "TURecipientBar.framework"
-            BlueprintName = "TURecipientBar"
+            BlueprintIdentifier = "631EA5141C4BFDED006F0E11"
+            BuildableName = "TURecipientBarFramework.framework"
+            BlueprintName = "TURecipientBarFramework"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
