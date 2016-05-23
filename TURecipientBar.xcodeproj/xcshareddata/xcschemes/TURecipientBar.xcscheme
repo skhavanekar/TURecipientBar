@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4251FD451CF3841C00501E65"
                BuildableName = "TURecipientBar.framework"
-               BlueprintName = "TURecipientBar iOS"
+               BlueprintName = "TURecipientBar"
                ReferencedContainer = "container:TURecipientBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4251FD451CF3841C00501E65"
             BuildableName = "TURecipientBar.framework"
-            BlueprintName = "TURecipientBar iOS"
+            BlueprintName = "TURecipientBar"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4251FD451CF3841C00501E65"
             BuildableName = "TURecipientBar.framework"
-            BlueprintName = "TURecipientBar iOS"
+            BlueprintName = "TURecipientBar"
             ReferencedContainer = "container:TURecipientBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

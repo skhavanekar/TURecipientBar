@@ -108,9 +108,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		4251FD451CF3841C00501E65 /* TURecipientBar iOS */ = {
+		4251FD451CF3841C00501E65 /* TURecipientBar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4251FD4C1CF3841D00501E65 /* Build configuration list for PBXNativeTarget "TURecipientBar iOS" */;
+			buildConfigurationList = 4251FD4C1CF3841D00501E65 /* Build configuration list for PBXNativeTarget "TURecipientBar" */;
 			buildPhases = (
 				4251FD411CF3841C00501E65 /* Sources */,
 				4251FD421CF3841C00501E65 /* Frameworks */,
@@ -121,7 +121,7 @@
 			);
 			dependencies = (
 			);
-			name = "TURecipientBar iOS";
+			name = TURecipientBar;
 			productName = "TURecipientBar iOS";
 			productReference = 4251FD461CF3841D00501E65 /* TURecipientBar.framework */;
 			productType = "com.apple.product-type.framework";
@@ -151,7 +151,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4251FD451CF3841C00501E65 /* TURecipientBar iOS */,
+				4251FD451CF3841C00501E65 /* TURecipientBar */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4251FD4C1CF3841D00501E65 /* Build configuration list for PBXNativeTarget "TURecipientBar iOS" */ = {
+		4251FD4C1CF3841D00501E65 /* Build configuration list for PBXNativeTarget "TURecipientBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4251FD4D1CF3841D00501E65 /* Debug */,
